@@ -1,3 +1,3 @@
 export function CategoryPills () {
-  return null;
+  return <div className="overflow-x-hidden"> </div>;
 }
